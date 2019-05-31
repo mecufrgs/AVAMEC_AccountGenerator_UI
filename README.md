@@ -1,4 +1,4 @@
-# avamec_accountgenerator_front
+# avamec_accountgenerator_ui
 
 ## Project setup
 ```
